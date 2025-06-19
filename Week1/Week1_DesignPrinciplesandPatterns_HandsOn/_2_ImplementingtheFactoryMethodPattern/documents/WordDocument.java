@@ -3,6 +3,6 @@ package Week1.Week1_DesignPrinciplesandPatterns_HandsOn._2_ImplementingtheFactor
 
 public class WordDocument implements Document {
     public void open() {
-        System.out.println("Opening a Word document.");
+        System.out.println("Opening a Word document");
     }
 }

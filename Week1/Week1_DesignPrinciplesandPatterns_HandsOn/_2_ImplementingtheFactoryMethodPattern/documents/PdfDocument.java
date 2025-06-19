@@ -3,6 +3,6 @@ package Week1.Week1_DesignPrinciplesandPatterns_HandsOn._2_ImplementingtheFactor
 
 public class PdfDocument implements Document {
     public void open() {
-        System.out.println("Opening a PDF document.");
+        System.out.println("Opening a PDF document");
     }
 }

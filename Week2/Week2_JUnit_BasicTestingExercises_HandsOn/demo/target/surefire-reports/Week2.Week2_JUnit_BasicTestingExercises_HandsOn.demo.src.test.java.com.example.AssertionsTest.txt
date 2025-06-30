@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Week2.Week2_JUnit_BasicTestingExercises_HandsOn.demo.src.test.java.com.example.AssertionsTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in Week2.Week2_JUnit_BasicTestingExercises_HandsOn.demo.src.test.java.com.example.AssertionsTest
